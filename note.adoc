@@ -1,0 +1,7 @@
+==String
+' and '' and '''
+
+[source,python]
+import os
+
+print('single line')
